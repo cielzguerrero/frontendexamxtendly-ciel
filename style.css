@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    background-image: url('assets/images/happy-co-workers-close-windowlowres.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    height: 60vh;
+}
+.title{
+    background-image: linear-gradient(to right, white, white,  transparent);
+    padding: 50px;
+}
+.floqast
+{
+    height: 60px;
+    max-height: 100px;
+    margin: 0px;
+    padding: 0px; 
+}
+.footer{
+    width: 80%;
+    height: 25vh;
+}
+.footer-content
+{
+    background-color: white;
+}
+.highlight{
+    color: rgb(101, 199, 9);
+}
+.highlight-background
+{
+    background-color: rgb(101, 199, 9);
+    color: white;
+}
